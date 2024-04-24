@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077457841892",
+    "project_id": "lunalifts-62f94",
+    "storage_bucket": "lunalifts-62f94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077457841892:android:5363551b1a939060b246f1",
+        "android_client_info": {
+          "package_name": "com.example.lunalifts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDayz8UC2jNZP9NwHN79sSkmEVCKwUuMU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
